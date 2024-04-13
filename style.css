@@ -113,7 +113,7 @@ body {
 .wrapper .linkedin:hover,
 .wrapper .linkedin:hover .tooltip,
 .wrapper .linkedin:hover .tooltip::before {
-  background: #833ab4;
+  background: #1877f2;
   color: #ffffff;
 }
 
