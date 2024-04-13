@@ -110,6 +110,12 @@ body {
   background: #833ab4;
   color: #ffffff;
 }
+.wrapper .linkedin:hover,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip::before {
+  background: #833ab4;
+  color: #ffffff;
+}
 
 .wrapper .youtube:hover,
 .wrapper .youtube:hover .tooltip,
